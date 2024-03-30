@@ -1,0 +1,8 @@
+
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(á×Ëşÿÿÿÿ8ı…óè1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–îÏ´8ş…óè1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Š‰¸Šüÿÿÿÿ8­…óè1
+C	java:S131""Add a default case to this switch.(á×Ëşÿÿÿÿ8®…óè1
+L	java:S106	"+Replace this use of System.out by a logger.(£¦°üÿÿÿÿÿ8°…óè1
+G	java:S106"+Replace this use of System.out by a logger.(üşº8±…óè1

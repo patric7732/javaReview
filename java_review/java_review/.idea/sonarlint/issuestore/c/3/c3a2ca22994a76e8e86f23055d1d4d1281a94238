@@ -1,0 +1,13 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8Ûˆ­óè1J$b551f7b3-1690-4c01-b26f-bc0a56d5635d
+’
+java:S1104	"OMake APT a static final constant or non-public and provide accessors if needed.(ŠÄ¦Á8Üˆ­óè1J$b525cfbc-5a8f-4304-8836-db189ed8caa2
+l
+java:S1444	")Make this "public static APT" field final(ŠÄ¦Á8İˆ­óè1J$dd4c2683-b624-4e85-bf62-82310740410e
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8ó´­óè1J$5f139e41-f7f7-4d16-9e72-018e0989cdba
+‘
+java:S3008	"NRename this field "APT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÄ¦Á8’‰­óè1J$25fd7838-737d-429a-bfa3-5b88e09befc3
+`
+java:S2386	"Make this member "protected".(ŠÄ¦Á8”‰­óè1J$499bfe0d-1bd6-4f9f-9559-4dd20fe37900
+r	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8¬‰­óè1J$78a93bf7-ea46-4b5c-af09-03d747fdfb1f
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆí‰õüÿÿÿÿ8­‰­óè1J$7e7f15b6-bb7f-4bb1-910d-1bb436b0b146
