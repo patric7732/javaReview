@@ -1,0 +1,10 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ôïüıî1J$facfc047-145f-46dc-af5c-ba0f3e2c03e4
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ĞÄÿıî1J$e0e6e859-ec98-4353-9a7f-b45c77f118ff
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î±½úÿÿÿÿ8°‘ïıî1J$12a4c783-96ed-4d00-bb8d-c82fd601874f
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8àïüıî1J$cc7c3a4a-7380-4d93-9ce8-cfe9603d1dbf
+r	java:S106"+Replace this use of System.out by a logger.(ƒœŸûÿÿÿÿ8Ìîñıî1J$746c2ee1-e807-4240-843f-c797347f5bc1
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ëÄÿıî1J$2d406ab2-6300-4a77-aa8f-0d47bcd73856
+m	java:S106"+Replace this use of System.out by a logger.(ÂĞÿö8“Èùıî1J$f622be37-9e9c-45cd-8dac-45f773752c10

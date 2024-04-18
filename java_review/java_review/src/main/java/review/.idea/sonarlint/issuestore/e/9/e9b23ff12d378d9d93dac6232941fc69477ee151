@@ -1,0 +1,6 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(σΐµτόÿÿÿÿJ$e2e57264-379b-4b51-9c49-9db5653e7c90
+΅
+java:S4165"eRemove this useless assignment; "balance" already holds the assigned value along all execution paths.(πΊJ$29c0ddc2-62be-421c-a647-8357ab547b7b
+k
+java:S1656"/Remove or correct this useless self-assignment.(πΊJ$a4b06379-90a9-47a4-bbf0-3bc41aa3fe79

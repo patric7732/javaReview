@@ -1,0 +1,24 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ñ¨‰ÛJ$aebf37b3-7044-424a-bed7-44fbb5711b70
+…
+java:S1192"JDefine a constant instead of duplicating this literal "Order end" 3 times.(ª¨ò;J$a64b1786-3ab9-41b7-a835-0f76b50b4ab9
+s
+java:S3518"7Make sure "i" can't be zero before doing this division.(¤™”£J$097a8fa8-bfe0-42e4-9e12-525edfbeadaf
+s
+java:S3518
+"7Make sure "i" can't be zero before doing this division.(¤™”£J$8a116bff-71c1-4f97-bd44-61eb8f62e488
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛ¨šøÿÿÿÿJ$ad01ceee-effc-4210-a609-d5c7528c0d21
+k	java:S106"+Replace this use of System.out by a logger.(ú¤ÇãùÿÿÿÿJ$0a553812-b1b6-4349-9da9-bbf879efadaa
+f	java:S106
+"+Replace this use of System.out by a logger.(¤™”£J$8b5cd1df-4d5a-4047-a1cb-201dc7c63c00
+f	java:S106"+Replace this use of System.out by a logger.(±µ—€J$6c7e45fc-7f24-4870-a4ee-3f503fcff5b6
+f	java:S106"+Replace this use of System.out by a logger.(„šœ¯J$858c93ae-130f-4cef-b656-3cb49539107b
+e	java:S106"+Replace this use of System.out by a logger.(ª¨ò;J$3affe880-a4d8-403d-a9a3-5c686366d664
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¨‰ÛJ$3430ef29-4c69-4576-a5e1-29267f4e109e
+¨
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ñ¨‰ÛJ$a2eb517e-b44b-4f7e-bc62-c1be23a8ee2b
+k	java:S106"+Replace this use of System.out by a logger.(ú¤ÇãùÿÿÿÿJ$6b26bef8-8633-47a0-ba11-7f9a6048d453
+f	java:S106"+Replace this use of System.out by a logger.(¤™”£J$908eecdb-9095-4c20-a908-8dd52251667c
+e	java:S106"+Replace this use of System.out by a logger.(ª¨ò;J$21e23da0-655f-463a-ae49-066fea163e24
+k	java:S106!"+Replace this use of System.out by a logger.(™ÿÔ ùÿÿÿÿJ$85ac2ea0-4302-42cb-bbcb-6cab8530ec2a
+e	java:S106$"+Replace this use of System.out by a logger.(ª¨ò;J$c2100bad-69c8-4362-8bb1-067b490491b4

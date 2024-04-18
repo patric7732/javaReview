@@ -1,0 +1,17 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î±½úÿÿÿÿJ$b2ddb95a-b69d-4052-a5a8-3c31abcf56e1
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ºÁñüî1J$e05eefaa-6153-4999-ac6b-94dd45000872
+r	java:S106
+"+Replace this use of System.out by a logger.(÷¥ôíüÿÿÿÿ8ÀÁñüî1J$aee0ad82-cb41-4847-b77a-c1c7f7f1fd79
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(®¸ƒ’ûÿÿÿÿ8ÁÁñüî1J$34953069-66a1-4854-9d49-62b22e331d7b
+m	java:S106"+Replace this use of System.out by a logger.(¶ÊÍŠ8ÁÁñüî1J$7c564551-fb7e-42ae-9ad0-ba70868ed965
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÃÁñüî1J$1f92c6d8-a3b1-4e35-bd5c-39e94ac8d13c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÃÁñüî1J$f1a999e9-43f2-4e19-8c8b-390748961a0e
+r	java:S106"+Replace this use of System.out by a logger.(ÎÒ¥ªúÿÿÿÿ8ÄÁñüî1J$c69c6198-cf3a-4e7b-a50e-cb0ca692f590
+m	java:S106"+Replace this use of System.out by a logger.(Á÷Àğ8ÅÁñüî1J$26f8fe4f-63bf-42c8-8fbd-fe8538a908f7
+¡
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ûÙ€ıî1J$bd7fd1d9-e5d0-461b-a3d0-85800e31b980

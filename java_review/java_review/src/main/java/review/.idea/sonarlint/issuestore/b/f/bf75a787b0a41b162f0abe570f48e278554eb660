@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÍÂÊøî1J$84280165-e6f3-4666-9a9b-4c5b87463160
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î±½úÿÿÿÿ8ÏÂÊøî1J$67710141-44f9-4aec-94a8-35c9c80eb25b
+m	java:S106"+Replace this use of System.out by a logger.(ôµŒü8ßÂÊøî1J$5418f2b9-956e-409c-84d3-7046dd118f27
+m	java:S106"+Replace this use of System.out by a logger.(©üì•8áÂÊøî1J$cb8ee530-b377-4cf2-b989-3408e1baba16
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8âÂÊøî1J$6392cefd-62ab-4e68-84cf-ac8536953c92
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ş…º®8ãÂÊøî1J$0b1db099-6b44-4f03-9450-b92e380f459b
+r	java:S106"+Replace this use of System.out by a logger.(íëºîÿÿÿÿÿ8äÂÊøî1J$9df96b5a-60e8-4308-a10c-f54c44e973c9
+m	java:S106"+Replace this use of System.out by a logger.(Ÿï“ğ8åÂÊøî1J$75012c4b-1cfb-42c7-be99-934074f196c6
+r	java:S106#"+Replace this use of System.out by a logger.(ç¤÷¡ÿÿÿÿÿ8çÂÊøî1J$f74730c9-f8c3-450e-b09e-2888733b9b0f

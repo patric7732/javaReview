@@ -1,6 +1,7 @@
 package review.exceptionTest.bankTest01;
 
-import com.example.day08.bankTest.InsufficientFundsException;
+
+import review.exceptionTest.bankTest.InsufficientFundsException;
 
 public class Account {
     private String accountNumber;

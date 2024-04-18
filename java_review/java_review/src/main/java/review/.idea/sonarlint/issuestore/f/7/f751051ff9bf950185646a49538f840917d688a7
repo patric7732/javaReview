@@ -1,0 +1,14 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8…û¨ÿî1J$7ab6c7ed-9d9e-4dc8-b5db-7f303241f672
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½é©ÿî1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î±½úÿÿÿÿ8¬“¢ÿî1J$ee0e1ab9-d483-4bc8-900f-b9252cdc7c66
+f
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Ìï¥ÿî1J$f2deeaab-ff7b-429d-9302-57fec96b8228
+r	java:S106	"+Replace this use of System.out by a logger.(Ï‡¶¤ÿÿÿÿÿ8ÅÉ¥ÿî1J$32379a07-0da8-4bb5-bc3c-660e76c8f1fa
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8û¨ÿî1J$d5aabfa0-8f29-42f2-a14d-77631d3c4a8f
+f
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8æÂ§ÿî1J$fa69f755-68be-49e2-a7ae-b3ab2a32bb05
+m	java:S106"+Replace this use of System.out by a logger.(õÿ«8Ğï¥ÿî1J$fb034f0d-eadf-41e2-8b0d-5d82ec25b621
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ëé©ÿî1

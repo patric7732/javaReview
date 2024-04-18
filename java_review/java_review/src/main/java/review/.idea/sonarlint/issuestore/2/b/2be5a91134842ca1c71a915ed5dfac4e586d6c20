@@ -1,0 +1,17 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾³×şî1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î±½úÿÿÿÿ8·Íşî1J$21739044-dc9b-4348-8d30-cab88b2ab579
+r	java:S106"+Replace this use of System.out by a logger.(‰‡³şÿÿÿÿ8™·Íşî1J$ba266277-1c3a-4bf7-adc9-6fbf7cc88561
+¡
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8œ·Íşî1J$cef89704-1b91-41e1-9d46-9d101f9baf42
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8œ·Íşî1J$4f6ef6f4-7a39-4101-8cf6-f9e733c2b3da
+m	java:S106"+Replace this use of System.out by a logger.(Í“Ö8œ·Íşî1J$38d9c769-8a53-4b5a-b393-9dee23151089
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ó³×şî1
+r	java:S106 "+Replace this use of System.out by a logger.(¿Ù¾ûÿÿÿÿ8·Íşî1J$0c3cf820-d98d-4fc4-ad83-4cebc80fb09d
+¡
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ÿ·Íşî1J$eb058761-324d-4d6b-893d-4469df8c020e
+m	java:S1061"+Replace this use of System.out by a logger.(ĞşÜÕ8 ·Íşî1J$f3125d9b-7cec-416e-845f-9f26182a1e53
+r	java:S1068"+Replace this use of System.out by a logger.(Ó˜ŠÜûÿÿÿÿ8¡·Íşî1J$bf028710-ef1f-4727-96c6-709d94b9a1c9
