@@ -1,24 +1,0 @@
-
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ñ¨‰Û
-_
-java:S1192"JDefine a constant instead of duplicating this literal "Order end" 3 times.(ª¨ò;
-M
-java:S3518
-"7Make sure "i" can't be zero before doing this division.(¤™”£
-M
-java:S3518"7Make sure "i" can't be zero before doing this division.(¤™”£
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛ¨šøÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ú¤Çãùÿÿÿÿ
-@	java:S106
-"+Replace this use of System.out by a logger.(¤™”£
-@	java:S106"+Replace this use of System.out by a logger.(±µ—€
-@	java:S106"+Replace this use of System.out by a logger.(„šœ¯
-?	java:S106"+Replace this use of System.out by a logger.(ª¨ò;
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¨‰Û
-‚
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ñ¨‰Û
-E	java:S106"+Replace this use of System.out by a logger.(ú¤Çãùÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(¤™”£
-?	java:S106"+Replace this use of System.out by a logger.(ª¨ò;
-E	java:S106!"+Replace this use of System.out by a logger.(™ÿÔ ùÿÿÿÿ
-?	java:S106$"+Replace this use of System.out by a logger.(ª¨ò;
