@@ -1,25 +1,0 @@
-
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ñ¨‰ÛJ$c58ad638-1b60-4d43-8357-ea75116d37b8
-…
-java:S1192"JDefine a constant instead of duplicating this literal "Order end" 3 times.(ª¨ò;J$5419ce2d-0965-4d42-b8ce-4fcb87c5884e
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ÇÅöÿÿÿÿÿ8¨üìôî1
-s
-java:S3518
-"7Make sure "i" can't be zero before doing this division.(¤™”£J$5801a1a0-49ee-41e1-9a13-b5366a0cd4af
-s
-java:S3518"7Make sure "i" can't be zero before doing this division.(¤™”£J$ba51fa73-f8af-4fdd-83d0-ec6f5fbc1926
-	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛ¨šøÿÿÿÿJ$c7343e0d-efcf-4f9a-b6c3-ff70ab2ed2a8
-k	java:S106"+Replace this use of System.out by a logger.(ú¤ÇãùÿÿÿÿJ$6383e155-e745-4a83-9a60-e81906a85bb7
-f	java:S106
-"+Replace this use of System.out by a logger.(¤™”£J$2a429c76-7141-41b3-b2d6-f20c578acf6a
-f	java:S106"+Replace this use of System.out by a logger.(±µ—€J$248c02d7-4a67-4e80-91fa-d8a97952f70b
-f	java:S106"+Replace this use of System.out by a logger.(„šœ¯J$85d7f196-abd2-43db-b4c8-dc9faa434044
-e	java:S106"+Replace this use of System.out by a logger.(ª¨ò;J$cf1392ba-2120-4d7c-8b76-08e9e2973b9b
-‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¨‰ÛJ$828da8df-8636-40fb-82a2-d8137fe085a3
-¨
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ñ¨‰ÛJ$29ebadad-41d3-4492-b2d5-f6ec28598ded
-k	java:S106"+Replace this use of System.out by a logger.(ú¤ÇãùÿÿÿÿJ$ae9d0ed6-ff32-4933-ba50-4fd729e2973c
-f	java:S106"+Replace this use of System.out by a logger.(¤™”£J$19c14344-fc75-423b-8718-5dff3ea62796
-e	java:S106"+Replace this use of System.out by a logger.(ª¨ò;J$f19afcd9-facb-4649-b2a2-6c68df37e7e8
-k	java:S106!"+Replace this use of System.out by a logger.(™ÿÔ ùÿÿÿÿJ$20146139-9185-490f-93ea-1be6e8a44b7c
-e	java:S106$"+Replace this use of System.out by a logger.(ª¨ò;J$f319ced8-c211-4112-8859-806c54324c7a

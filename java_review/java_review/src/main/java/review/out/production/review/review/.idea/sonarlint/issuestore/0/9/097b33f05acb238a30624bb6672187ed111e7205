@@ -1,9 +1,0 @@
-
-š
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "number".(Ó†öïJ$a2b96703-3bc0-4d20-a6a2-721877669c92
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶—–çùÿÿÿÿJ$e3f9cbd6-c8fb-4f61-9594-bb13a18a17da
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ÿ 8³Ãîôî1
-e
-java:S2140")Use "java.util.Random.nextInt()" instead.(Ó†öïJ$618f76f5-a8a6-4f79-a4af-d1a76c77e671
-f	java:S106
-"+Replace this use of System.out by a logger.( İ¶×J$eee7ada9-fa8c-423b-b636-dfbafd595e5f

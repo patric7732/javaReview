@@ -1,10 +1,0 @@
-
-X
-java:S3518"CMake sure this expression can't be zero before doing this division.(·³ªu
-O
-java:S1854":Remove this useless assignment to local variable "result".(·³ªu
-@
-java:S1481"+Remove this unused "result" local variable.(·³ªu
-@	java:S106	"+Replace this use of System.out by a logger.(ò³ß½
-Q	java:S125"<This block of commented-out lines of code should be removed.(î”˜§
-E	java:S106"+Replace this use of System.out by a logger.(Ë²Îåûÿÿÿÿ
