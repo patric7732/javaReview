@@ -1,4 +1,4 @@
-package review.networkTest;
+package review.networkTest.day1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

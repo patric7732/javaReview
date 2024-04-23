@@ -1,4 +1,4 @@
-package review.networkTest;
+package review.networkTest.day1;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
