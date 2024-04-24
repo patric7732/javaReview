@@ -58,7 +58,7 @@ class InputThread extends Thread {
         } catch (Exception e) {
             System.out.println(e);
         } finally {
-            if (in!=null){
+            if (in != null) {
                 try {
                     in.close();
                 } catch (IOException e) {
