@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b91feab2-dcf6-4967-ab0a-3abad4af43ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/B_2_3040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/S_4_1244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/ConstructTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/FinalVariableExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/FinalVarialbleExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/IntBibaryOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/IntBinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterface2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterface3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../math/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/LambdaExam3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/lambdaTest/MyFunctionalInterfaceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fP3n5sixqKJS2YO9RCOAB5QtbB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PATRIC/Desktop/review/java_review/java_review/src/main/java/review/lambdaTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91feab2-dcf6-4967-ab0a-3abad4af43ea" name="Changes" comment="" />
+      <created>1713689052329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713689052329</updated>
+      <workItem from="1713689055473" duration="128000" />
+      <workItem from="1713831808373" duration="590000" />
+      <workItem from="1714003406187" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
