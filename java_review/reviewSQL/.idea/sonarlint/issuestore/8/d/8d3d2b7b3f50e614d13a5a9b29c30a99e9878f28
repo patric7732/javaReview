@@ -1,0 +1,14 @@
+
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8αªΤ―υ1J$68c69236-7f03-4431-9076-2f0624dce192
+	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8αªΤ―υ1J$3614ddfa-b325-4eaa-ae9b-d344937dde54
+…
+java:S1163&"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òιόÿÿÿÿ8γªΤ―υ1J$675a90c5-31ef-4363-ae14-764d60df03a0
+…
+java:S1163-"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òιόÿÿÿÿ8γªΤ―υ1J$2ff2ba28-062f-4024-9471-8bc98206b1e2
+|
+java:S1143&"4Remove this throw statement from this finally block.(Ò‚Òιόÿÿÿÿ8δªΤ―υ1J$75699b87-6889-4ae4-a5b6-88c7c2b1a390
+|
+java:S1143-"4Remove this throw statement from this finally block.(Ò‚Òιόÿÿÿÿ8δªΤ―υ1J$8c0a27c5-99c3-487b-8b9e-282bd3888f15
+~
+java:S6437"6Revoke and change this password, as it is compromised.(υά·ÿÿÿÿÿ8φªΤ―υ1J$4921368a-2899-4340-bdf7-62ca0fd9645c
+l	java:S106"+Replace this use of System.out by a logger.(€„h8΅΅Χ―υ1J$4c382bbf-ef60-4d2c-9a1b-dba0de8fa18a
