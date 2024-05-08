@@ -1,18 +1,18 @@
 
-	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğî•¯õ1J$008e8bb8-25f4-4fb2-8221-010258304875
-	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğî•¯õ1J$19c4130d-ce5a-46d7-915a-d3f13517daaa
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğî•¯õ1J$ba664061-ef6f-4c60-a51b-9121f78ec844
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğî•¯õ1J$6fe61b43-b41a-4492-a861-d688e9db6676
 …
-java:S1163&"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$787b1cc7-cf14-4cea-81c9-c1afee8f6a64
+java:S1163&"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$26e91672-0341-4f7c-9fc5-d85a15a7d207
 …
-java:S1163,"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$f3f7222f-233e-41c7-be64-841357389d7f
+java:S1163,"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$49233be6-caf9-4b2b-8231-c4587b6f4643
 |
-java:S1143&"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$db5e0098-2af7-430f-bc1e-969f56561241
+java:S1143&"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$452d42ae-4e95-430e-8332-230e25b5aa2a
 |
-java:S1143,"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$5a46ed29-4864-4e88-a8b1-2be733a1b22a
+java:S1143,"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8Òî•¯õ1J$430f3bea-753d-4a07-a086-909dcccfc5ea
 
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(õÜ·Šÿÿÿÿÿ8õî•¯õ1J$ea22cbe7-1f32-4461-bc2b-88dc884e0b65
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(õÜ·Šÿÿÿÿÿ8õî•¯õ1J$7c370230-d9ce-4863-bd3b-289610fba2a2
 z
-java:S2589("7Remove this expression which always evaluates to "true"(¡ææú8õî•¯õ1J$6dfda8b6-2bba-45d4-8f06-5d21eccd333b
+java:S2589("7Remove this expression which always evaluates to "true"(¡ææú8õî•¯õ1J$be1b6d94-2b9b-478e-b30b-8c1d8e0f2b30
 ~
-java:S6437"6Revoke and change this password, as it is compromised.(õÜ·Šÿÿÿÿÿ8úî•¯õ1J$c33b9fd7-b2a7-4cd7-88d5-2527ff86acee
-r	java:S106"+Replace this use of System.out by a logger.(àØ¨Âÿÿÿÿÿ8‡â˜¯õ1J$47b18533-ebc9-4dfd-bd85-89314b0f4efd
+java:S6437"6Revoke and change this password, as it is compromised.(õÜ·Šÿÿÿÿÿ8úî•¯õ1J$ec790ebf-4944-4aad-8f5c-40effef4796e
+r	java:S106"+Replace this use of System.out by a logger.(àØ¨Âÿÿÿÿÿ8‡â˜¯õ1J$508dad74-17ae-4b4c-a8de-b15a39a9bc96

@@ -13,3 +13,9 @@ _
 +src/main/java/com/exam/jdbc/SelectTest.java,2\4\249fae9207f14630a4a4dd6afec9e6e9de40b423
 X
 (src/main/java/com/exam/jdbc/DeptDAO.java,f\b\fbd069b5c5faf6b4fd510ab5690c394f306f5887
+X
+(src/main/java/com/exam/jdbc/DeptDTO.java,9\9\9903abf3a2b897e044c85e0fee2839c5daad1599
+[
++src/main/java/com/exam/jdbc/DeptDAORun.java,c\3\c3c213581a7bc5e85a78c8b93468ff05176b0aba
+W
+'src/main/java/com/exam/jdbc/DBUtil.java,b\b\bbe3ecad5d6d57cd412e7970b4d6fa74ea2ad2d0
