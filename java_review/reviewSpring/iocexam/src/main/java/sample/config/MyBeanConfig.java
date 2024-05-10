@@ -1,11 +1,12 @@
 package sample.config;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 import sample.bean.MyBean;
 
-@Configuration
+@ComponentScan(basePackages = "sample")
 public class MyBeanConfig {
 
     @Bean
