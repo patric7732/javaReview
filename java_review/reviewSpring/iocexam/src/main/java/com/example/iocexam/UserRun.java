@@ -10,8 +10,6 @@ public class UserRun {
         ApplicationContext context = new AnnotationConfigApplicationContext(UserConfig.class);
 
         UserController userController = context.getBean(UserController.class);
-        userController.joiinUser();
-
-        //
+        userController.joinUser();
     }
 }
