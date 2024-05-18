@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b91feab2-dcf6-4967-ab0a-3abad4af43ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../brute_force/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../brute_force/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../math/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../math/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
@@ -12,8 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatRoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatRoomService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/chatService/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/B_2_3040.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/B_2_3040.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/S_4_1244.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/codingTest/S_4_1244.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java_review/java_review/src/main/java/review/streamTest/StreamExam3.java" afterDir="false" />
@@ -63,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/PATRIC/Desktop/review/java_review/java_review/src/main/java/review/lambdaTest",
+    "last_opened_file_path": "C:/Users/PATRIC/Desktop/review/java_review/java_review/src/main/java/review",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,21 +72,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="implementation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="implementation" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,6 +84,8 @@
       <workItem from="1713831808373" duration="590000" />
       <workItem from="1714003406187" duration="43000" />
       <workItem from="1714348489493" duration="1288000" />
+      <workItem from="1714774059408" duration="73000" />
+      <workItem from="1714774262310" duration="1203000" />
     </task>
     <servers />
   </component>
