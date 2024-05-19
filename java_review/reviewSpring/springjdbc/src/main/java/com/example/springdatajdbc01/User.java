@@ -1,5 +1,6 @@
 package com.example.springdatajdbc01;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -11,6 +12,7 @@ import org.springframework.data.relational.core.mapping.Table;
 @Getter
 @Setter
 @NoArgsConstructor // 생성자 설정,
+@AllArgsConstructor
 public class User {
     @Id // id라는 것을 알려줘야함, 이것이 기본적인 조건임
     private Long id;

@@ -1,10 +1,10 @@
 
-‹
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(þÆ‡ž8öìä®õ1J$b9ea008e-f934-40e5-a147-bbb75bafcbf4
-†
-java:S2583"CChange this condition so that it does not always evaluate to "true"(¡ææú8÷ìä®õ1J$75394bbe-09e1-46b6-a0a6-9a8353190180
-y
-java:S6437"6Revoke and change this password, as it is compromised.(þÆ‡ž8ýìä®õ1J$ec69da23-b4d3-4ecf-bf46-479a3913c5e3
-m	java:S106"+Replace this use of System.out by a logger.(€Ñ‹ú8ÿìä®õ1J$c1867484-2860-4fb7-b466-811189f41c7a
-r	java:S106"+Replace this use of System.out by a logger.(ÁÒ‘‹ùÿÿÿÿ8€íä®õ1J$cb75674b-cb3c-49c9-8f4b-b1cc5d202a26
-~	java:S125"<This block of commented-out lines of code should be removed.(Ì½…Ø8½üó®õ1J$09b56910-a050-4138-8b03-18ebe65b2ed1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(þÆ‡ž8ºõ¢Õõ1
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¡ææú8½õ¢Õõ1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(þÆ‡ž8Èõ¢Õõ1
+G	java:S106"+Replace this use of System.out by a logger.(€Ñ‹ú8Ïõ¢Õõ1
+L	java:S106"+Replace this use of System.out by a logger.(ÁÒ‘‹ùÿÿÿÿ8Ñõ¢Õõ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ì½…Ø8Öõ¢Õõ1

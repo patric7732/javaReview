@@ -81,32 +81,8 @@ I
 threadTest/S_4_11399.java,8\6\8630d49f7c26a3da7da2aa78d5894afde08baa5d
 I
 threadTest/S_1_11660.java,a\0\a04bc161b500c6272bd33ddf18281b61d0c1454a
-O
-networkTest/EchoClientExam.java,0\7\07d8ee5bc097d60f864aa6cfbbce142e19063add
-O
-networkTest/EchoServerExam.java,e\b\eb895056ce18c3f6df5476cc3846abd867f1c58f
-P
- networkTest/EchoServerExam2.java,0\9\0904200807fc8077ec7ae8072ac90bc3ace91748
-K
-networkTest/EchoServer.java,6\3\634e3c064d593fe8c8833e965882c54d4db4fb73
-K
-networkTest/ClientExam.java,e\9\e9caee5c63d91d7a14d3cdfecdacc2e3381e7a16
-Q
-!networkTest/EchoThreadServer.java,a\b\ab7889be49ee98d9efc798484af7bbacd6e197e2
-K
-networkTest/ChatServer.java,3\7\37c7d9687769de957f13ea6d0576c3d40d9ccb7d
-K
-networkTest/ChatClient.java,8\3\83469ceefe34fdbfba0c58b69527e1900f1c943c
-H
-networkTest/Handler.java,7\d\7d074326ca9107a650325083502780a83a6e5fad
 M
 genericTest/box/ColorBox.java,9\e\9e9864e97848ba444889c9a6af80c08b9fad4bcb
-R
-"networkTest/EchoThreadServer2.java,2\5\2500d26c150e7aaf95360d1e0ee79c8202d2f379
-K
-networkTest/EchoClient.java,e\3\e345d79397a85f2ff5124c214dad2ffc237274b9
-E
-networkTest/day1.java,9\3\93c6fb6f8e17d8eb4381a7567a14e6dd86450e32
 W
 'networkTest/day1/EchoThreadServer2.java,a\8\a87f4b1d4f19de59eb75be01ca3d07beebb686fd
 P
@@ -115,3 +91,11 @@ P
  networkTest/day1/EchoClient.java,4\6\4654c176ca7a7b08aaf12cb2fa9fedd10fe7f6fe
 P
  networkTest/day2/ChatClient.java,1\f\1f026846f5d7958f74785c1d4245c4c756384844
+]
+-networkTest/day2/chatTest/ChatClientTest.java,5\6\562e40a121d77b56de3f124bf4707311b3913b5d
+]
+-networkTest/day2/chatTest/ChatServerTest.java,c\a\caed1d8cd02c98840fbfb11b82f9de3412f75065
+S
+#networkTest/day2/UDPEchoServer.java,d\c\dc59870cca3ba307a3d23fc6605fdf0f48e518b7
+L
+standardJava/ch01/test1.java,d\e\de51896f885d4e6b31af0a58d1400dc2cf90f25f

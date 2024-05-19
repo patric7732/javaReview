@@ -1,2 +1,8 @@
-package annotation;public @interface Count100 {
+package annotation;
+
+import static java.lang.annotation.RetentionPolicy.RUNTIME;
+import java.lang.annotation.Retention;
+
+@Retention(RUNTIME)
+public @interface Count100 {
 }

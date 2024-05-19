@@ -1,4 +1,4 @@
-package com.example.springjdbc07;
+package com.example.springjdbc08;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -7,31 +7,22 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 @SpringBootApplication
-public class Springjdbc07Application {
+public class Springjdbc08Application {
     public static void main(String[] args) {
-        SpringApplication.run(Springjdbc07Application.class, args);
+        SpringApplication.run(Springjdbc08Application.class, args);
+
     }
 
     @Bean
-    public CommandLineRunner demo(JdbcTemplate jdbcTemplate) {
+    public CommandLineRunner run(UserDao userDao){
         return args -> {
-// Text Blocks를 사용한 멀티 라인 SQL 쿼리
-            String sql = """
-                    INSERT INTO users (name, email)
-                    VALUES (?, ?);
-                    """;
-            jdbcTemplate.update(sql, "Esther", "esther@example.com");
-// 멀티 라인 쿼리로 여러 개의 데이터 조회
-            String query = """
-                    SELECT id, name, email
-                    FROM users
-                    WHERE email LIKE ?;
-                    """;
-            jdbcTemplate.query(query, rs -> {
-                while (rs.next()) {
-                    System.out.println("User: " + rs.getString("name") + " - " + rs.getString("email"));
-                }
-            }, "%example.com");
+            User user = new User();
+            user.setName("Hi");
+            user.setEmail("hi@exam.com");
+
+            User resultUser = userDao.insertUser(user);
+
+            System.out.println(resultUser.getId());
         };
     }
 
