@@ -1,5 +1,9 @@
 spring:
   application:
     name: springmvc
+
+  messages:
+    basename: messages
+    encoding: UTF-8
 server:
   port: 8888

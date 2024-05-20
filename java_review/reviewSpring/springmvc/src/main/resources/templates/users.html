@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Users</title>
+</head>
+<body>
+<h1>축구 선수 명단</h1>
+<table>
+    <tr th:each="user : ${users}">
+        <td th:text="${user.name}">Username</td>
+        <td th:text="${user.position}">Position</td>
+    </tr>
+</table>
+
+<div th:replace="footer :: footer"></div>
+</body>
+</html>
