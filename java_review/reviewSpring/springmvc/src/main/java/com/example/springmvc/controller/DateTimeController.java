@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class DateTimeController {
 @GetMapping("/datetime")
-public String showDateTime(Model model){
+public String showDateTime(Model model){g
     LocalDate date = LocalDate.now();
     LocalDateTime dateTime = LocalDateTime.now();
     LocalTime time = LocalTime.now();
