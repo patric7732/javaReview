@@ -9,23 +9,36 @@ public class UserRun {
 //        EntityManagerFactory emf = Persistence.createEntityManagerFactory("UserPU");
 //        EntityManager entityManager = emf.createEntityManager();
 
-
         EntityManager entityManager = JPAUtil.getEntityManagerFactory().createEntityManager();
 
-        // 유저 엔티티가 생성이 됨, 아직은 영속성 컨텍스트가 관리하지 않는 상태임
+        //엔티티 생성  --  아직은 영속성 컨텍스트가 관리하지 않는 상태!!(비영속)
         User user = new User();
 //        user.setId(1L);
-        user.setName("Jeon");
-        user.setEmail("jeon@exam.com");
+        user.setName("kim");
+        user.setEmail("kim@gmail.com");
 
         // 여기까지도 영속성 컨텍스트가 관리하지는 않음.
         entityManager.getTransaction().begin();
+//
+//        //영속성 컨텍스트에게 관리를 맡김.  (영속상태)
+//        entityManager.persist(user);
+//        System.out.println("userId :::::::::::::::::"+user.getId());
 
-        // 영속성 컨텍스트에 관리를 맡김
-        entityManager.persist(user);
-        System.out.println("userId::::::::::::::" + user.getId());
 
-        //이때 DB에 저장함
+        User user1 = entityManager.find(User.class, 1L);
+        User user2 = entityManager.find(User.class, 1L);
+
+        if(user1 == user2)
+            System.out.println("user1 == user2");
+        else
+            System.out.println("user1 != user2");
+
+
+        //이때 DB에 저장함.
         entityManager.getTransaction().commit();
+
+
+
+
     }
 }
