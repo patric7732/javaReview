@@ -25,17 +25,27 @@ public class UserRun {
 //        System.out.println("userId :::::::::::::::::"+user.getId());
 
 
+//        User user1 = entityManager.find(User.class, 1L);
+//        User user2 = entityManager.find(User.class, 1L);
+//
+//        if(user1 == user2)
+//            System.out.println("user1 == user2");
+//        else
+//            System.out.println("user1 != user2");
+
+        // update
         User user1 = entityManager.find(User.class, 1L);
-        User user2 = entityManager.find(User.class, 1L);
+        user1.setEmail("new_patric1@exma.com");
+        user1.setName("patric1");
 
-        if(user1 == user2)
-            System.out.println("user1 == user2");
-        else
-            System.out.println("user1 != user2");
-
+        user1.setName("patric");
+        user1.setEmail("new_patric@exma.com");
 
         //이때 DB에 저장함.
         entityManager.getTransaction().commit();
+
+
+
 
 
 

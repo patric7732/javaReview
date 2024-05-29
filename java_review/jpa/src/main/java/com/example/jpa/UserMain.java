@@ -10,17 +10,17 @@ public class UserMain {
     public static void main(String[] args) {
         UserDAO userDAO = new UserDAO();
 
-        // findUser()
-        log.info("================ fiunUser() =================");
-        User findUser = userDAO.findUser(1L);
-        log.info("Found user : {}", findUser.getName());
-
-        User findUser2 = userDAO.findUser(1L);
-        if (findUser == findUser2){
-            log.info("findUser == findUser2");
-        } else{
-            log.info("findUser != findUser2");
-        }
+//        // findUser()
+//        log.info("================ fiunUser() =================");
+//        User findUser = userDAO.findUser(1L);
+//        log.info("Found user : {}", findUser.getName());
+//
+//        User findUser2 = userDAO.findUser(1L);
+//        if (findUser == findUser2){
+//            log.info("findUser == findUser2");
+//        } else{
+//            log.info("findUser != findUser2");
+//        }
 
         // user create
 //        UserDAO userDAO = new UserDAO();
@@ -31,5 +31,13 @@ public class UserMain {
 //
 //        log.info("Create user : " + patricUser.getName());
 //        log.info("user email :  {}", patricUser.getEmail());
+
+        // user update
+        User user = new User();
+        user.setId(1L);
+        user.setName("patric55");
+        user.setEmail("patric@gmail.com");
+
+        userDAO.updateUser(user);
     }
 }

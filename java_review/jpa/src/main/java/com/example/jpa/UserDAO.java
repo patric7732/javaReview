@@ -17,6 +17,17 @@ public class UserDAO {
 //            emf.close();
 //    }
 
+    public void updateUser(User user) {
+        EntityManager em = JPAUtil.getEntityManagerFactory().createEntityManager();
+        try{
+            em.getTransaction().begin();
+            em.merge(user);
+            em.getTransaction().commit();
+        }finally {
+            em.close();
+        }
+    }
+
 
 
     public User findUser(Long id) {
@@ -29,6 +40,7 @@ public class UserDAO {
             em.close();
         }
     }
+
     public void createUser(User user){
         EntityManager entityManager = JPAUtil.getEntityManagerFactory().createEntityManager();
         try{
