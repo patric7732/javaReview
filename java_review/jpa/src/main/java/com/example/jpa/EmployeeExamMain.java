@@ -33,7 +33,7 @@ public class EmployeeExamMain {
         em.getTransaction().begin();
         try{
             Employee employee = new Employee();
-            employee.setName("patric");
+            employee.setName("kang");
 
             Project project = new Project();
             project.setName("lion project");
@@ -58,8 +58,12 @@ public class EmployeeExamMain {
         EntityManager em = JPAUtil.getEntityManagerFactory().createEntityManager();
         em.getTransaction().begin();
         try{
-            Employee employee = em.find(Employee.class, 3L);
-            employee.setName("kang kyungmi");
+            Employee employee = em.find(Employee.class, 1L);
+//            employee.setName("kang kyungmi");
+            Project project = em.find(Project.class, 2L);
+            employee.getProjects().remove(project);
+
+
 
 
 
@@ -92,9 +96,9 @@ public class EmployeeExamMain {
     }
     public static void main(String[] args) {
 //        find();
-        create();
-//        update();
-//        delete();
+//        create();
+        update();
+//delete();
 
     }
 }
