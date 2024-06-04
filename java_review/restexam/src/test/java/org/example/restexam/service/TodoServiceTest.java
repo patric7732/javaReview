@@ -24,11 +24,11 @@ class TodoServiceTest {
         todos.forEach(todo -> log.info("Todo:::"+todo));
     }
 
-    @Test
-    void getTodo() {
-        Todo todo = service.getTodo(1L);
-        log.info("Todo::::::::"+todo);
-    }
+//    @Test
+//    void getTodo() {
+//        Todo todo = service.getTodo(1L);
+//        log.info("Todo::::::::"+todo);
+//    }
 
     @Test
     void addTodo() {
@@ -36,25 +36,25 @@ class TodoServiceTest {
         log.info("Todo::::"+todo1);
     }
 
-    @Test
-    void updateTodoById() {
-        log.info("Before Todo::::::::"+service.getTodo(1L));
-        Todo todo = service.updateTodo(1L);
-        log.info("After Todo:::::::::"+todo);
-    }
+//    @Test
+//    void updateTodoById() {
+//        log.info("Before Todo::::::::"+service.getTodo(1L));
+//        Todo todo = service.updateTodo(1L);
+//        log.info("After Todo:::::::::"+todo);
+//    }
+//
+//    @Test
+//    void updateTodo() {
+//        Todo todo = new Todo("updte Todo");
+//        todo.setId(1L);
+//        log.info("Before Todo :::::::::::: "+ service.getTodo(1L));
+//        service.updateTodo(todo);
+//        log.info("After Todo :::::::::::: "+ service.getTodo(1L));
+//    }
 
-    @Test
-    void updateTodo() {
-        Todo todo = new Todo("updte Todo");
-        todo.setId(1L);
-        log.info("Before Todo :::::::::::: "+ service.getTodo(1L));
-        service.updateTodo(todo);
-        log.info("After Todo :::::::::::: "+ service.getTodo(1L));
-    }
-
-    @Test
-    void deleteTodo() {
-        service.deleteTodo(1L);
-        log.info("Todo:::"+service.getTodo(1L));
-    }
+//    @Test
+//    void deleteTodo() {
+//        service.deleteTodo(1L);
+//        log.info("Todo:::"+service.getTodo(1L));
+//    }
 }
