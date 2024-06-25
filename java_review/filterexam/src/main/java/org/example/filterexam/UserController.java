@@ -7,14 +7,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/user")
 public class UserController {
-
     @GetMapping("/info")
-    public String info() {
+    public String info(){
         return "info";
     }
-
     @GetMapping("/list")
-    public String list() {
+    public String list(){
         return "list";
     }
 }
