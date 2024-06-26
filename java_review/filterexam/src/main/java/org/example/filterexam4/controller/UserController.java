@@ -21,7 +21,7 @@ public class UserController {
         return "loginform";
     }
 
-    @PostMapping("/login")
+    @PostMapping("/loginform")
     public String loginform(@ModelAttribute("user") User user, HttpServletResponse response) {
 
         //사용자가 보낸 username과 패스워드가 서버가 원하는 정보랑 일치하는지 확인하고
@@ -72,11 +72,11 @@ public class UserController {
 
     @GetMapping("/info")
     public String info(HttpServletRequest request){
-        User user = UserContext.getUser();
-        if(user != null)
-            return "info";
-        else
-            return "redirect:/loginform";
+//        User user = UserContext.getUser();
+//        if(user != null)
+        return "info";
+//        else
+//            return "redirect:/loginform";
     }
 
 }
