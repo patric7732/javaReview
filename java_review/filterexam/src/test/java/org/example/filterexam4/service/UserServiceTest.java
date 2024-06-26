@@ -4,29 +4,28 @@ import org.example.filterexam4.entity.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.annotation.Commit;
+import org.springframework.test.annotation.Rollback;
 import org.springframework.transaction.annotation.Transactional;
 
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-
+import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
-@Transactional
-public class UserServiceTest {
-
+//@Transactional
+@Rollback(value = false)
+class UserServiceTest {
     @Autowired
-    private UserService userService;
-
+    UserService userService;
     @Test
-    @Commit // 테스트 메서드 완료 후 롤백 방지
-    void registerUserTest() {
+    void registerNewuser(){
         User user = new User();
-        user.setUsername("testUser");
-        user.setPassword("password");
-        user.setName("TestUser");
-        user.setEmail("test@example.com");
+        user.setName("kang");
+        user.setUsername("kang");
+        user.setPassword("1234");
+        user.setEmail("kang@kang.com");
 
-        User registeredUser = userService.registerNewUser(user);
+        User user1 = userService.registerNewUser(user);
 
-        assertNotNull(registeredUser.getId());
+        assertNotNull(user1.getId());
+
     }
+
 }

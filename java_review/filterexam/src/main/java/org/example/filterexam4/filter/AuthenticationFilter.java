@@ -3,10 +3,10 @@ package org.example.filterexam4.filter;
 import jakarta.servlet.*;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
+import org.example.filterexam4.entity.User;
+
 
 import java.io.IOException;
-import org.example.filterexam3.User;
-import org.example.filterexam3.UserContext;
 
 public class AuthenticationFilter implements Filter {
     @Override
@@ -23,15 +23,15 @@ public class AuthenticationFilter implements Filter {
                     }
                 }
             }
-            User user = new User();
-            user.setUsername(auth);
+            if(auth != null) {
+                User user = new User();
+                user.setUsername(auth);
 
-            UserContext.setUser(user);
-
+                UserContext.setUser(user);
+            }
             filterChain.doFilter(servletRequest, servletResponse);
-        }finally {
+        } finally {
             UserContext.clear();
         }
-
     }
 }
