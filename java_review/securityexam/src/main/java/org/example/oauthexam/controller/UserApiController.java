@@ -1,17 +1,19 @@
-package org.example.jwtexam.controller;
+package org.example.oauthexam.controller;
 
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;
+import java.util.List;
+import java.util.stream.Collectors;
 import lombok.RequiredArgsConstructor;
-import org.example.jwtexam.domain.RefreshToken;
-import org.example.jwtexam.domain.Role;
-import org.example.jwtexam.domain.User;
-import org.example.jwtexam.dto.UserLoginResponseDto;
-import org.example.jwtexam.jwt.util.JwtTokenizer;
-import org.example.jwtexam.security.dto.UserLoginDto;
-import org.example.jwtexam.service.RefreshTokenService;
-import org.example.jwtexam.service.UserService;
+import org.example.oauthexam.domain.RefreshToken;
+import org.example.oauthexam.domain.Role;
+import org.example.oauthexam.domain.User;
+import org.example.oauthexam.dto.UserLoginResponseDto;
+import org.example.oauthexam.jwt.util.JwtTokenizer;
+import org.example.oauthexam.security.dto.UserLoginDto;
+import org.example.oauthexam.service.RefreshTokenService;
+import org.example.oauthexam.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -20,9 +22,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.List;
-import java.util.stream.Collectors;
 
 @RestController
 @RequiredArgsConstructor

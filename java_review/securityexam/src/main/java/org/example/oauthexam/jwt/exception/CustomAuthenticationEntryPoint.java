@@ -1,4 +1,4 @@
-package org.example.jwtexam.jwt.exception;
+package org.example.oauthexam.jwt.exception;
 
 import com.google.gson.Gson;
 import jakarta.servlet.ServletException;

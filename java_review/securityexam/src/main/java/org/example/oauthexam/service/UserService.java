@@ -1,16 +1,15 @@
-package org.example.jwtexam.service;
-
-import lombok.RequiredArgsConstructor;
-import org.example.jwtexam.repository.RoleRepository;
-import org.example.jwtexam.domain.Role;
-import org.example.jwtexam.domain.User;
-import org.example.jwtexam.repository.UserRepository;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
+package org.example.oauthexam.service;
 
 import java.util.Collections;
 import java.util.Optional;
+import lombok.RequiredArgsConstructor;
+import org.example.oauthexam.domain.Role;
+import org.example.oauthexam.domain.User;
+import org.example.oauthexam.repository.RoleRepository;
+import org.example.oauthexam.repository.UserRepository;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 @Service
 @RequiredArgsConstructor
