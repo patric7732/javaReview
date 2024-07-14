@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a664c7d8-fc78-43d1-b8c1-f0199efeb227" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../algorithm/baekjoon/brute_force/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/baekjoon/brute_force/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/baekjoon/data_structure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/baekjoon/data_structure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/baekjoon/implementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/baekjoon/implementation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/baekjoon/math/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/baekjoon/math/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_1_1032.java" beforeDir="false" afterPath="$PROJECT_DIR$/B_1_1032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_2_1009.java" beforeDir="false" afterPath="$PROJECT_DIR$/B_2_1009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_3_2445.java" beforeDir="false" afterPath="$PROJECT_DIR$/B_3_2445.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendexam/src/main/java/com/example/friendexam/FriendexamApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friendexam/src/main/java/com/example/friendexam/FriendexamApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendexam/src/main/java/com/example/friendexam/domain/Friend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friendexam/src/main/java/com/example/friendexam/domain/Friend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendexam/src/main/resources/templates/friends/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../friendexam/src/main/resources/templates/friends/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_review/src/main/java/review/codingTest/B_2_2445.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_review/src/main/java/review/codingTest/B_2_2445.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa/src/main/java/com/example/jpa/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/example/jpa/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa/src/main/java/com/example/jpa/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/src/main/java/com/example/jpa/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restexam/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../restexam/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/config/MyCustomViewResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/config/MyCustomViewResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/DateTimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/DateTimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/ExamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/ExamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/MyViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/MyViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/SessionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/controller/SessionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/view/MyCustomView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/java/com/example/springmvc/view/MyCustomView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/visit2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../reviewSpring/springmvc/src/main/resources/templates/visit2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/myapp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa2/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepositoryCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepositoryCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepositoryCustomImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa3/UserRepositoryCustomImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/JobHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/JobHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdatajpa/src/main/java/com/example/springdatajpa4/Region.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iMZWcQyTMwcKJGCOG7szGy0KGT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.B_1_1032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B_2_1009.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.B_1_1032">
+    <configuration name="B_1_1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_1_1032" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_2_1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_2_1009" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.B_1_1032" />
+        <item itemvalue="Application.B_2_1009" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a664c7d8-fc78-43d1-b8c1-f0199efeb227" name="Changes" comment="" />
+      <created>1719302438963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719302438963</updated>
+      <workItem from="1719302440527" duration="2378000" />
+      <workItem from="1719386748393" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
